@@ -89,3 +89,21 @@ This repository is intended for educational and ethical research purposes only. 
 
 ---
 
+# Report Generator Tools
+
+## 🔧 Tools List
+
+- **[Dradis](https://dradisframework.com/)** - Collaboration and report generation platform for security assessments with automated data integration.
+- **[Faraday](https://www.faradaysec.com/)** - Centralized platform for security teams with integrated report generation features.
+- **[Serpico](https://github.com/SerpicoProject/Serpico)** - Simple and efficient tool for creating structured security reports using templates.
+- **[MagicTree](http://www.magictree.org/)** - Data consolidation and report generation tool designed for penetration testers.
+- **[PwnDoc](https://github.com/pwnDoc/pwnDoc)** - Web application for generating penetration testing reports with custom templates.
+- **[Vulnreport](https://vulnreport.io/)** - Automated reporting platform for red teams and penetration testers.
+- **[Reconmap](https://github.com/reconmap/reconmap)** - Open-source security platform with integrated reporting for security professionals.
+- **[Pentest-Report-Generator](https://github.com/xdavidhu/Pentest-Report-Generator)** - Tool for generating detailed pentest reports using markdown templates.
+- **[ReportGenerator](https://github.com/danielpalme/ReportGenerator)** - Tool for converting code coverage reports into human-readable formats.
+- **[LaTeX PenTest Report](https://github.com/juliocesarfort/latex-pentest-report)** - LaTeX-based penetration testing report template for professional-grade reports.
+
+---
+
+
