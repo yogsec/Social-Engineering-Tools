@@ -106,4 +106,21 @@ This repository is intended for educational and ethical research purposes only. 
 
 ---
 
+# Quid Pro Quo Tools
+
+## 🔧 Tools List
+
+- **[SET (Social Engineering Toolkit)](https://github.com/trustedsec/social-engineer-toolkit)** - Provides various modules for social engineering attacks, including quid pro quo scenarios for awareness training.
+- **[GoPhish](https://getgophish.com/)** - Open-source phishing framework that can be adapted for quid pro quo awareness campaigns.
+- **[Modlishka](https://github.com/drk1wi/Modlishka)** - Reverse proxy tool useful for impersonation tactics in quid pro quo attacks.
+- **[King Phisher](https://github.com/rsmusllp/king-phisher)** - Advanced phishing platform for creating interactive quid pro quo awareness campaigns.
+- **[Evilginx](https://github.com/kgretzky/evilginx2)** - Tool for simulating advanced social engineering attacks with interactive elements.
+- **[PhishX](https://github.com/FDX100/PhishX)** - Multi-purpose social engineering tool capable of running quid pro quo attack scenarios.
+- **[HiddenEye](https://github.com/DarkSecDevelopers/HiddenEye)** - Phishing tool that can simulate social engineering campaigns with quid pro quo elements.
+- **[BlackEye](https://github.com/thelinuxchoice/blackeye)** - Social engineering tool designed for mimicking popular services for phishing and awareness.
+- **[QRGen](https://github.com/microlab/QRGen)** - QR code generator that can be adapted for quid pro quo simulations via malicious link creation.
+- **[USB Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky)** - Physical payload delivery device that can execute social engineering tactics in quid pro quo scenarios.
+
+---
+
 
