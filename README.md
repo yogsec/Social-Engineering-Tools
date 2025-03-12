@@ -72,3 +72,20 @@ This repository is intended for educational and ethical research purposes only. 
 
 ---
 
+# Impersonation Templates Tools
+
+## 🔧 Tools List
+
+- **[SET (Social Engineering Toolkit)](https://github.com/trustedsec/social-engineer-toolkit)** - Powerful tool for creating convincing impersonation scenarios, including email, SMS, and website templates.
+- **[Evilginx](https://github.com/kgretzky/evilginx2)** - Advanced phishing and impersonation framework that bypasses 2FA using reverse proxy attacks.
+- **[GoPhish](https://getgophish.com/)** - User-friendly phishing toolkit with custom email impersonation capabilities.
+- **[Modlishka](https://github.com/drk1wi/Modlishka)** - Reverse proxy tool for automating credential theft through impersonated login pages.
+- **[Phishing Frenzy](https://github.com/pentestgeek/phishing-frenzy)** - Tool for creating highly customizable phishing templates and campaigns.
+- **[King Phisher](https://github.com/rsmusllp/king-phisher)** - Phishing toolkit for crafting tailored impersonation campaigns.
+- **[EvilnoVNC](https://github.com/JoelGMSec/EvilnoVNC)** - VNC-based impersonation tool that simulates desktop environments for phishing.
+- **[PhishX](https://github.com/FDX100/PhishX)** - Tool with impersonation templates for email, SMS, and fake login pages.
+- **[BlackEye](https://github.com/thelinuxchoice/blackeye)** - Tool for cloning websites and impersonating popular platforms.
+- **[HiddenEye](https://github.com/DarkSecDevelopers/HiddenEye)** - Multi-platform phishing tool for creating convincing impersonation scenarios.
+
+---
+
