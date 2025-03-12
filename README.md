@@ -45,3 +45,13 @@ This repository is intended for educational and ethical research purposes only. 
 - **[MySudo](https://mysudo.com/)**: Privacy-focused app for secure calls, messaging, and browsing.
 
 ---
+
+### Pretexting Scripts Tools
+- **[Maltego](https://www.maltego.com/)**: Excellent for gathering intelligence and building convincing pretexts.
+- **[theHarvester](https://github.com/laramies/theHarvester)**: Ideal for collecting email addresses, names, and data for realistic scenarios.
+- **[Sherlock](https://github.com/sherlock-project/sherlock)**: Finds social media accounts to build detailed pretexts.
+- **[Recon-ng](https://github.com/lanmaster53/recon-ng)**: A powerful framework for information gathering.
+- **[OSINT Framework](https://osintframework.com/)**: Resource collection for identifying targets and developing credible stories.
+
+---
+
