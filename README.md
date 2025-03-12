@@ -1,9 +1,6 @@
-# Social Engineering Tools
+# Social Engineering Tools 🚨
 
 A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.
-
-## 🚨 Disclaimer
-This repository is intended for educational and ethical research purposes only. Use these tools responsibly and only on systems you own or have explicit permission to test. Misuse may result in legal consequences.
 
 ## 🔧 Features
 - **Phishing Attack Automation**: Generate convincing phishing pages and email templates.  
@@ -157,3 +154,40 @@ This repository is intended for educational and ethical research purposes only. 
 
 ---
 
+# Dumpster Diving Awareness Module Tools
+
+## 🔧 Tools List
+
+- **[OSINT Framework](https://osintframework.com/)** - Open-source intelligence tool that helps demonstrate how discarded information can be exploited.
+- **[Recon-ng](https://github.com/lanmaster53/recon-ng)** - Powerful reconnaissance tool that can showcase how publicly available data can be gathered, mimicking dumpster diving tactics.
+- **[DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)** - Automated task chaining tool that simulates data leakage and mishandled information scenarios.
+- **[Creepy](https://www.geocreepy.com/)** - Tool for location tracking via metadata, showcasing how leaked digital information can be exploited.
+- **[Maltego](https://www.maltego.com/)** - Visual data mapping tool used to track exposed data often found through dumpster diving tactics.
+- **[FOCA](https://github.com/ElevenPaths/FOCA)** - Metadata analysis tool that reveals sensitive information in publicly available documents.
+- **[ExifTool](https://exiftool.org/)** - Metadata extraction tool that educates users on hidden data exposure risks in files.
+- **[Intel Techniques](https://inteltechniques.com/)** - Comprehensive OSINT platform for teaching digital footprint management and data security.
+- **[TheHarvester](https://github.com/laramies/theHarvester)** - Tool for gathering information like emails, subdomains, and files that mimic data exposure risks.
+- **[DataSploit](https://github.com/DataSploit/datasploit)** - Open-source intelligence framework designed to identify exposed data points found in discarded digital resources.
+
+---
+
+## 🌟 Let's Connect!
+
+Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
+
+🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
+📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
+🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
+💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
+📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
+🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
+👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/cybersecurity-pentester/](https://www.linkedin.com/in/cybersecurity-pentester/)  
+📧 **Email:** abhinavsingwal@gmail.com
+
+---
+
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
