@@ -19,4 +19,18 @@ This repository is intended for educational and ethical research purposes only. 
 
 ---
 
+# Phishing Attack Automation Tools
 
+## 🔧 Tools List
+- **[Evilginx](https://github.com/kgretzky/evilginx2)**: Advanced phishing framework that bypasses 2FA.
+- **[GoPhish](https://getgophish.com/)**: Phishing framework for security awareness training.
+- **[Modlishka](https://github.com/drk1wi/Modlishka)**: Reverse proxy tool for automated phishing campaigns.
+- **[SocialFish](https://github.com/UndeadSec/SocialFish)**: User-friendly tool for creating realistic phishing pages.
+- **[King Phisher](https://github.com/rsmusllp/king-phisher)**: Phishing campaign toolkit with detailed reporting features.
+- **[PhishX](https://github.com/FDX100/PhishX)**: Multi-functional tool for email spoofing, SMS phishing, and fake login pages.
+- **[BlackEye](https://github.com/thelinuxchoice/blackeye)**: Popular tool for crafting phishing pages for major platforms.
+- **[HiddenEye](https://github.com/DarkSecDevelopers/HiddenEye)**: Phishing tool supporting multi-platform credential harvesting.
+- **[EvilnoVNC](https://github.com/JoelGMSec/EvilnoVNC)**: Advanced tool using noVNC for browser-based phishing attacks.
+- **[CredSniper](https://github.com/ustayready/CredSniper)**: Automated phishing kit for realistic login page replicas.
+
+---
