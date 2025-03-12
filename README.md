@@ -123,4 +123,20 @@ This repository is intended for educational and ethical research purposes only. 
 
 ---
 
+# Smishing Tools
+
+## 🔧 Tools List
+
+- **[SET (Social Engineering Toolkit)](https://github.com/trustedsec/social-engineer-toolkit)** - Offers a powerful SMS spoofing module for conducting smishing awareness simulations.
+- **[EvilSMS](https://github.com/jayngng/EvilSMS)** - Open-source tool for sending fake SMS messages during social engineering tests.
+- **[SMS Spoofing Tool](https://github.com/grazzolini/smsspoof)** - Python-based SMS spoofing tool ideal for smishing awareness training.
+- **[SMiShing Toolkit](https://github.com/kgretzky/smishing-toolkit)** - Tool that helps security researchers craft convincing SMS phishing campaigns.
+- **[GoPhish](https://getgophish.com/)** - Although designed for phishing, GoPhish can be adapted for smishing campaigns.
+- **[HackTricks SMS Spoofer](https://github.com/carlospolop/hacktricks)** - SMS spoofing guide with practical scripts for security testing.
+- **[SMS Bomber](https://github.com/TheSpeedX/TBomb)** - Although designed for SMS spamming, it can be used in security simulations.
+- **[Termux-SMS](https://github.com/Shellphish101/Termux-SMS)** - Tool designed for Android devices via Termux to simulate SMS phishing campaigns.
+- **[SMSSpoof](https://github.com/martinvigo/smsspoof)** - Python-based smishing framework for crafting believable SMS attacks.
+- **[Spammer-Grab](https://github.com/p4kl0nc4t/Spammer-Grab)** - Open-source tool designed to automate SMS testing campaigns.
+
+---
 
