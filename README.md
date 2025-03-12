@@ -140,3 +140,20 @@ This repository is intended for educational and ethical research purposes only. 
 
 ---
 
+# Tailgating Simulator Tools
+
+## 🔧 Tools List
+
+- **[CCTV Simulator](https://www.cctvsimulator.com/)** - Software for creating realistic CCTV simulations to train staff on identifying unauthorized access attempts.
+- **[GuardPoint Pro](https://www.rosslaresecurity.com/)** - Access control platform with simulation features to assess tailgating vulnerabilities.
+- **[iPass Simulator](https://ipass.com/)** - Tool designed to simulate employee badge and access control bypass scenarios.
+- **[Access Control Assessment Tool](https://github.com/SecurityResearcher/access-control-tool)** - Open-source utility for evaluating access point weaknesses in physical security.
+- **[RFID Emulator](https://github.com/morrownr/RFID-emulator)** - Tool for replicating RFID signals to test unauthorized entry points.
+- **[Proxmark3](https://github.com/RfidResearchGroup/proxmark3)** - RFID testing tool capable of simulating access card cloning in tailgating attack scenarios.
+- **[OpenPath Security](https://www.openpath.com/)** - Cloud-based access control solution with simulated attack features.
+- **[BadgeRanger](https://github.com/badgeranger/badgeranger)** - Utility designed for testing security gaps related to access badges and entry systems.
+- **[KeyDuino](https://github.com/KeyDuino/KeyDuino)** - Open-source NFC and RFID security tool useful for simulating tailgating scenarios.
+- **[SpyRFID](https://github.com/SpyRFID/SpyRFID)** - Tool for analyzing RFID badge systems to evaluate security flaws.
+
+---
+
