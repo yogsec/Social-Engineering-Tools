@@ -55,3 +55,20 @@ This repository is intended for educational and ethical research purposes only. 
 
 ---
 
+# Baiting Simulation Tools
+
+## 🔧 Tools List
+
+- **[Canarytokens](https://canarytokens.org/)** - Generates tracking links, documents, and web bugs to detect unauthorized access or data theft.
+- **[Glastopf](https://github.com/mushorg/glastopf)** - Web application honeypot designed to emulate known vulnerabilities to attract and analyze attackers.
+- **[HoneyPy](https://github.com/foospidy/HoneyPy)** - Lightweight honeypot that simulates services to lure and analyze malicious behavior.
+- **[Kippo](https://github.com/desaster/kippo)** - SSH honeypot designed to log brute force attacks and session activities.
+- **[Artillery](https://github.com/BinaryDefense/artillery)** - Honeypot solution for detecting and blocking malicious activities.
+- **[Dionaea](https://github.com/DinoTools/dionaea)** - Honeypot framework designed to capture malware through exploitation techniques.
+- **[T-Pot](https://github.com/telekom-security/tpotce)** - All-in-one honeypot platform combining multiple honeypot tools in a single framework.
+- **[WordPot](https://github.com/gbrindisi/wordpot)** - Honeypot designed to mimic WordPress installations for detecting malicious scans and attacks.
+- **[Cowrie](https://github.com/cowrie/cowrie)** - SSH and Telnet honeypot designed to track malicious activities on vulnerable systems.
+- **[Conpot](https://github.com/mushorg/conpot)** - ICS/SCADA honeypot to simulate industrial control systems for security research.
+
+---
+
