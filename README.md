@@ -34,3 +34,14 @@ This repository is intended for educational and ethical research purposes only. 
 - **[CredSniper](https://github.com/ustayready/CredSniper)**: Automated phishing kit for realistic login page replicas.
 
 ---
+
+### Vishing Tools
+- **[Caller ID Spoofer](https://www.spooftel.com/)**: Enables fake caller ID manipulation for security testing.
+- **[PrankDial](https://www.prankdial.com/)**: Automated voice prank system for awareness training.
+- **[PhoneInfoga](https://github.com/sundowndev/phoneinfoga)**: Tool for gathering phone number intelligence.
+- **[SpoofCard](https://www.spoofcard.com/)**: A tool for spoofing caller ID for testing and awareness campaigns.
+- **[FireRTC](https://www.firertc.com/)**: A VoIP tool that allows anonymous and secure calling.
+- **[Hushed](https://hushed.com/)**: A tool that provides temporary phone numbers for secure communication.
+- **[MySudo](https://mysudo.com/)**: Privacy-focused app for secure calls, messaging, and browsing.
+
+---
