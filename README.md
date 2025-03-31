@@ -2,6 +2,19 @@
 
 A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.
 
+<div align="center">
+      <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=WhatsApp+Channel&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
+  <a href="https://t.me/HackerSecure"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>
+  <a href="https://www.linkedin.com/in/cybersecurity-pentester/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkedIn&amp;color=0A66C2&amp;logo=LinkedIn&amp;logoColor=FFFFFF&amp;label=" alt="LinkedIn"></a>
+  <a href="https://linktr.ee/yogsec"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkTree&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
+  <a href="https://x.com/home"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=X&amp;color=000000&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Lichess"></a>
+  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20YogSec%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
+  <a href="https://yogsec.github.io/yogsec/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Website&amp;color=FFFFC5&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>  
+  
+</div>
+
+---
+
 ## 🔧 Features
 - **Phishing Attack Automation**: Generate convincing phishing pages and email templates.  
 - **Vishing Tool**: Automate phone-based social engineering attacks for security assessments.  
@@ -168,26 +181,3 @@ A powerful collection of tools designed for social engineering research, penetra
 - **[Intel Techniques](https://inteltechniques.com/)** - Comprehensive OSINT platform for teaching digital footprint management and data security.
 - **[TheHarvester](https://github.com/laramies/theHarvester)** - Tool for gathering information like emails, subdomains, and files that mimic data exposure risks.
 - **[DataSploit](https://github.com/DataSploit/datasploit)** - Open-source intelligence framework designed to identify exposed data points found in discarded digital resources.
-
----
-
-## 🌟 Let's Connect!
-
-Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
-
-🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
-📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
-🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
-💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
-📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
-🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
-👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/cybersecurity-pentester/](https://www.linkedin.com/in/cybersecurity-pentester/)  
-📧 **Email:** abhinavsingwal@gmail.com
-
----
-
-## ☕ Buy Me a Coffee
-
-If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
-
-☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
