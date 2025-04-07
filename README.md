@@ -2,7 +2,11 @@
 
 A powerful collection of tools designed for social engineering research, penetration testing, and security awareness training. These tools help security researchers understand human manipulation tactics and improve defense mechanisms.
 
+<div style="align:center;">
 
+![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc4N2s0NzY5eWw2bjQyMXVuaGFoNjBzeG52a3liNXMybmJpMGk1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R7m04yMaGWVeE/giphy.gif)
+
+</div>
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x">
