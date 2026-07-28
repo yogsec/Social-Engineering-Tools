@@ -9,7 +9,7 @@ A powerful collection of tools designed for social engineering research, penetra
 
 ---
 
-## 🔧 Features
+## Features
 - **Phishing Attack Automation**: Generate convincing phishing pages and email templates.  
 - **Vishing Tool**: Automate phone-based social engineering attacks for security assessments.  
 - **Pretexting Scripts**: Pre-built scenarios to test employee awareness.  
@@ -25,7 +25,7 @@ A powerful collection of tools designed for social engineering research, penetra
 
 # Phishing Attack Automation Tools
 
-## 🔧 Tools List
+## Tools List
 - **[Evilginx](https://github.com/kgretzky/evilginx2)**: Advanced phishing framework that bypasses 2FA.
 - **[GoPhish](https://getgophish.com/)**: Phishing framework for security awareness training.
 - **[Modlishka](https://github.com/drk1wi/Modlishka)**: Reverse proxy tool for automated phishing campaigns.
@@ -61,7 +61,7 @@ A powerful collection of tools designed for social engineering research, penetra
 
 # Baiting Simulation Tools
 
-## 🔧 Tools List
+## Tools List
 
 - **[Canarytokens](https://canarytokens.org/)** - Generates tracking links, documents, and web bugs to detect unauthorized access or data theft.
 - **[Glastopf](https://github.com/mushorg/glastopf)** - Web application honeypot designed to emulate known vulnerabilities to attract and analyze attackers.
@@ -78,7 +78,7 @@ A powerful collection of tools designed for social engineering research, penetra
 
 # Impersonation Templates Tools
 
-## 🔧 Tools List
+## Tools List
 
 - **[SET (Social Engineering Toolkit)](https://github.com/trustedsec/social-engineer-toolkit)** - Powerful tool for creating convincing impersonation scenarios, including email, SMS, and website templates.
 - **[Evilginx](https://github.com/kgretzky/evilginx2)** - Advanced phishing and impersonation framework that bypasses 2FA using reverse proxy attacks.
@@ -95,7 +95,7 @@ A powerful collection of tools designed for social engineering research, penetra
 
 # Report Generator Tools
 
-## 🔧 Tools List
+## Tools List
 
 - **[Dradis](https://dradisframework.com/)** - Collaboration and report generation platform for security assessments with automated data integration.
 - **[Faraday](https://www.faradaysec.com/)** - Centralized platform for security teams with integrated report generation features.
@@ -112,7 +112,7 @@ A powerful collection of tools designed for social engineering research, penetra
 
 # Quid Pro Quo Tools
 
-## 🔧 Tools List
+## Tools List
 
 - **[SET (Social Engineering Toolkit)](https://github.com/trustedsec/social-engineer-toolkit)** - Provides various modules for social engineering attacks, including quid pro quo scenarios for awareness training.
 - **[GoPhish](https://getgophish.com/)** - Open-source phishing framework that can be adapted for quid pro quo awareness campaigns.
@@ -129,7 +129,7 @@ A powerful collection of tools designed for social engineering research, penetra
 
 # Smishing Tools
 
-## 🔧 Tools List
+## Tools List
 
 - **[SET (Social Engineering Toolkit)](https://github.com/trustedsec/social-engineer-toolkit)** - Offers a powerful SMS spoofing module for conducting smishing awareness simulations.
 - **[EvilSMS](https://github.com/jayngng/EvilSMS)** - Open-source tool for sending fake SMS messages during social engineering tests.
@@ -146,7 +146,7 @@ A powerful collection of tools designed for social engineering research, penetra
 
 # Tailgating Simulator Tools
 
-## 🔧 Tools List
+## Tools List
 
 - **[CCTV Simulator](https://www.cctvsimulator.com/)** - Software for creating realistic CCTV simulations to train staff on identifying unauthorized access attempts.
 - **[GuardPoint Pro](https://www.rosslaresecurity.com/)** - Access control platform with simulation features to assess tailgating vulnerabilities.
@@ -163,7 +163,7 @@ A powerful collection of tools designed for social engineering research, penetra
 
 # Dumpster Diving Awareness Module Tools
 
-## 🔧 Tools List
+## Tools List
 
 - **[OSINT Framework](https://osintframework.com/)** - Open-source intelligence tool that helps demonstrate how discarded information can be exploited.
 - **[Recon-ng](https://github.com/lanmaster53/recon-ng)** - Powerful reconnaissance tool that can showcase how publicly available data can be gathered, mimicking dumpster diving tactics.
@@ -175,3 +175,7 @@ A powerful collection of tools designed for social engineering research, penetra
 - **[Intel Techniques](https://inteltechniques.com/)** - Comprehensive OSINT platform for teaching digital footprint management and data security.
 - **[TheHarvester](https://github.com/laramies/theHarvester)** - Tool for gathering information like emails, subdomains, and files that mimic data exposure risks.
 - **[DataSploit](https://github.com/DataSploit/datasploit)** - Open-source intelligence framework designed to identify exposed data points found in discarded digital resources.
+
+---
+
+LinkTree: [https://linktr.ee/abhinavsingwal](https://linktr.ee/abhinavsingwal)
