@@ -5,33 +5,7 @@ A powerful collection of tools designed for social engineering research, penetra
 <div style="align:center;">
 
 ![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc4N2s0NzY5eWw2bjQyMXVuaGFoNjBzeG52a3liNXMybmJpMGk1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R7m04yMaGWVeE/giphy.gif)
-
 </div>
-
-<div align="center" style="margin: 30px 0;">
-  <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp+Channel&color=25D366&logo=whatsapp&logoColor=FFFFFF&label=" alt="WhatsApp Channel">
-  </a>
-  <a href="https://t.me/HackerSecure">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram+Channel&color=24A1DE&logo=telegram&logoColor=FFFFFF&label=" alt="Telegram Channel">
-  </a>
-  <a href="https://www.linkedin.com/in/cybersecurity-pentester/">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn">
-  </a>
-  <a href="https://linktr.ee/yogsec">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkTree&color=25D366&logo=linktree&logoColor=FFFFFF&label=" alt="LinkTree">
-  </a>
-  <a href="https://x.com/home">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=x&logoColor=FFFFFF&label=" alt="X">
-  </a>
-  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20YogSec%20,%20nice%20to%20meet%20you!">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email">
-  </a>
-  <a href="https://yogsec.github.io/yogsec/">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=FFFFC5&logo=Firefox&logoColor=000000&label=" alt="Website">
-  </a>
-</div>
-
 
 ---
 
